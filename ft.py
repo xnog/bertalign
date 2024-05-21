@@ -1,7 +1,7 @@
 from bertalign import Bertalign
 
-pt_file = "1/xt/!2.txt"
-it_file = "1/nerina/!2.txt"
+pt_file = "1/xt/!10.txt"
+it_file = "1/nerina/!10.txt"
 
 pt = ""
 with open(pt_file, "r") as f:
